@@ -28,3 +28,19 @@ img[src^="img/post_"]{
 .round-5{
   border-radius: 20px 20px;
 }
+
+@media (max-width:768px) {
+
+  header>div>div{
+      font-size: 0.75em;
+  }
+
+}
+
+@media (max-width:992px) {
+
+  header>div>div{
+      font-size: 0.75em;
+  }
+
+}
