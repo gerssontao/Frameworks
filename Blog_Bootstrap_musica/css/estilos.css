@@ -1,6 +1,9 @@
-div{
+/*div{
   border: 1px solid red;
+}*/
+body{
+  background-color: #b0bec5 ;
 }
-header{
-  min-height: 50rem;;
+.navitem{
+  padding: 10px;
 }
