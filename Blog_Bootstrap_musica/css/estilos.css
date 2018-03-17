@@ -1,9 +1,16 @@
 /*div{
   border: 1px solid red;
 }*/
-body{
-  background-color: #b0bec5 ;
+header{
+  background-color: #607d8b ;
 }
-.navitem{
-  padding: 10px;
+a>i{
+  color:black;
+}
+nav{
+  background-color: #b0bec5  ;
+}
+img[src^="img/post_"]{
+  width: 100%;
+  margin-top: 1em;
 }
