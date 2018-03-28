@@ -5,3 +5,11 @@ div{
 .size{
   width: 100%;
 }
+
+.space{
+  padding: 0 20px 0 20px;
+}
+
+.border{
+  border-radius: 10px;
+}
