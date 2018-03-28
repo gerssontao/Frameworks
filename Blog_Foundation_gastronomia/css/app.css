@@ -13,3 +13,28 @@
 .border{
   border-radius: 10px;
 }
+
+li{
+  list-style: none;
+}
+
+.left{
+  border-left: 1px solid #CACACA;
+  padding-left: 20px;
+
+}
+
+.right{
+  border-right: 1px solid #CACACA;
+  padding-right: 20px;
+}
+
+.top{
+  border-top: 1px solid #CACACA;
+  padding-top: 20px;
+}
+
+.bottom{
+  border-bottom: : 1px solid #CACACA;
+  padding-bottom: : 20px;
+}
